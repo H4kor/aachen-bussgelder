@@ -1,0 +1,9 @@
+{
+    "title": "Bussgelder in Aachen (2019)",
+    "plugins": {
+        "datasette-cluster-map": {
+            "latitude_column": "lat",
+            "longitude_column": "lon"
+        }
+    }
+}
