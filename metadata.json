@@ -1,5 +1,10 @@
 {
     "title": "Bussgelder in Aachen (2019)",
+    "description": "Bussgelder für fließenden und stehenden Verkehr in Aachen",
+    "licence": "Datenlizenz Deutschland – Namensnennung – Version 2.0",
+    "licence_url": "https://opendefinition.org/od/2.1/en/",
+    "source": "Open Data Portal Aachen",
+    "source_url": "https://offenedaten.aachen.de",
     "plugins": {
         "datasette-cluster-map": {
             "latitude_column": "lat",
